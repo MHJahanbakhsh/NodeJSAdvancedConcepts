@@ -61,7 +61,7 @@
 
 ![Event Loop](./images/event_loop.png)
 
-```
+```js
 --> PSEUDO CODE
 
 // Start: node myfile.js
